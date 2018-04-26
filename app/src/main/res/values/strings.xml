@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Waribana</string>
+
+    <string name="form_username">Utilisateur</string>
+    <string name="form_password">Mot de passe</string>
+    <string name="form_login">Connexion</string>
+    <string name="form_auth">Authentification</string>
+    <string name="form_signup_msg">Ou clickez ici pour vous enregistrer</string>
 </resources>
